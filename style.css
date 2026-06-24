@@ -25,3 +25,23 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+header h1 {
+  font-size: 24px;
+  margin-bottom: 4px;
+}
+
+header h1 a {
+  color: #222;
+  text-decoration: none;
+}
+
+header h1 a:hover {
+  text-decoration: none;
+}
+
+header p {
+  font-size: 16px;
+  margin-top: 0;
+  color: #555;
+}
