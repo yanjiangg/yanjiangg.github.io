@@ -24,3 +24,9 @@ Global and historical patterns in education research
 ## Contact
 
 Email: yannj [at] stanford [dot] edu
+
+## Updates
+
+June 2026: I created this professional website.
+
+May 2026: My dissertation received an honorable mention for the UC dissertation award.
