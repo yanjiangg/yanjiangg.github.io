@@ -12,4 +12,4 @@ Coming soon.
 
 ## Mentoring
 
-I have mentored students and research assistants in literature review, qualitative coding, survey data analysis, computational text analysis, and academic writing.
+Coming soon.
