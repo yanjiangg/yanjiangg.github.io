@@ -26,4 +26,4 @@ Email: [yannj@stanford.edu](mailto:yannj@stanford.edu)
 
 2026/09: My paper, “Navigating the ‘Ideals’: A Comparative Case Study of Early Educators’ Sensemaking of Quality in the United States and China,” is now available online in [*Teaching and Teacher Education*](https://www.sciencedirect.com/science/article/pii/S0742051X26004208).
 
-2026/05: My dissertation received an honorable mention for the UC Chancellor’s Dissertation Medal.
+2026/05: My dissertation received an honorable mention for the University of California Chancellor’s Dissertation Medal.
