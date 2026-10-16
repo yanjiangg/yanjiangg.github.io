@@ -17,7 +17,7 @@ Welcome! I am a Postdoctoral Scholar at the Stanford Center on Early Childhood. 
 
 Email: [yannj@stanford.edu](mailto:yannj@stanford.edu)  
 
-[Google Scholar](https://scholar.google.com/citations?user=MlJpstYAAAAJ&hl=en) | [Stanford Profile](https://profiles.stanford.edu/375572) | [LinkedIn](https://www.linkedin.com/in/yan-jiang-%E5%A7%9C%E7%90%B0-8b68a5235/)
+[Google Scholar](https://scholar.google.com/citations?user=MlJpstYAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/yan-jiang-%E5%A7%9C%E7%90%B0-8b68a5235/)
 
 ## Updates
 2026/10: My paper, “Whose Knowledge Counts? Mapping Global Inequalities in Early Childhood Education Research Production,” was accepted for presentation at the 71st Annual Meeting of the Comparative and International Education Society (CIES 2027).
