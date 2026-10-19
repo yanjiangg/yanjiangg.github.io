@@ -11,7 +11,7 @@ Stanford Center on Early Childhood
   <img src="assets/Yan_Jiang_photo.jpg" alt="Yan Jiang" width="220">
 </p>
 
-Hi! I am an interdisciplinary developmental and educational researcher and currently a Postdoctoral Scholar at the Stanford Center on Early Childhood. My research bridges developmental science, early childhood education, and data science to examine how social, cultural, and institutional conditions shape children’s development across family and education settings. My work addresses: (1) how unequal resources and structural conditions shape what families and educators can provide for children; (2) whose knowledge and practices are privileged in dominant conceptions of development; and (3) how methodological pluralism can reveal insights beyond what any single method can offer. I received my Ph.D. in Education Studies, with a specialization in Computational Social Science, from the University of California, San Diego.  
+Hi! I am a Postdoctoral Scholar at the Stanford Center on Early Childhood. My research bridges developmental science, early childhood education, and data science to examine how social, cultural, and institutional conditions shape children’s development across family and education settings. My work addresses: (1) how unequal resources and structural conditions shape what families and educators can provide for children; (2) whose knowledge and practices are privileged in dominant conceptions of development; and (3) how methodological pluralism can reveal insights beyond what any single method can offer. I received my Ph.D. in Education Studies, with a specialization in Computational Social Science, from the University of California, San Diego.  
 
 ## Contact & Profiles
 
