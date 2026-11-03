@@ -20,7 +20,7 @@ Email: [yannj@stanford.edu](mailto:yannj@stanford.edu)
 [Google Scholar](https://scholar.google.com/citations?user=MlJpstYAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/yan-jiang-%E5%A7%9C%E7%90%B0-8b68a5235/)
 
 ## Updates
-2026/10: My paper, “Whose Knowledge Counts? Mapping Global Inequalities in Early Childhood Education Research Production,” was accepted for presentation at the 71st Annual Meeting of the Comparative and International Education Society (CIES 2027).
+2026/10: My paper, “Whose Knowledge Counts? Mapping Global Inequalities in Early Childhood Education Research Production,” was accepted for in-person presentation at the 71st Annual Meeting of the Comparative and International Education Society (CIES 2027), in Madison, Wisconsin, April 3–7, 2027.
 
 2026/09: Our session, “From Data to Lived Experience: Understanding Child Care Workforce Strain Across Settings,” was accepted for presentation at the 2026 NAEYC Annual Conference in Washington, DC (December 5–8).
 
